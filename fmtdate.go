@@ -104,10 +104,12 @@ var Placeholder = []p{
 	{"ZZZ", "MST"},
 	{"ZZ", "Z07:00"},
 	{"YYYY", "2006"},
+	{"yyyy", "2006"},
 	{"YY", "06"},
 	{"DDDD", "Monday"},
 	{"DDD", "Mon"},
 	{"DD", "02"},
+	{"dd", "02"},
 	{"D", "2"},
 }
 
