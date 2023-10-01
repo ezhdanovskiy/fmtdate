@@ -12,7 +12,7 @@ Usage
 
 	package main
 	import (
-		"gopkg.in/metakeule/fmtdate.v1"
+		"gopkg.in/ezhdanovskiy/fmtdate.v1"
 		"fmt"
 	)
 

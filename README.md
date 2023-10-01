@@ -1,7 +1,7 @@
 fmtdate
 =======
 
-**Note: If you are reading this on Github, please note that the repo has moved to Gitlab (gitlab.com/metakeule/fmtdate) and this is only a mirror.**
+**Note: If you are reading this on Github, please note that the repo has moved to Gitlab (gitlab.com/ezhdanovskiy/fmtdate) and this is only a mirror.**
 
 100% test coverage (that was easy :-))
 
@@ -22,7 +22,7 @@ Usage
 
 	package main
 	import (
-		"gitlab.com/metakeule/fmtdate"
+		"gitlab.com/ezhdanovskiy/fmtdate"
 		"fmt"
 	)
 
@@ -44,7 +44,7 @@ For json
     package main
 
     import (
-        "gitlab.com/metakeule/fmtdate"
+        "gitlab.com/ezhdanovskiy/fmtdate"
         "fmt"
         "encoding/json"
     )
@@ -97,4 +97,4 @@ Placeholders
 Documentation
 -------------
 
-see https://pkg.go.dev/gitlab.com/metakeule/fmtdate
+see https://pkg.go.dev/gitlab.com/ezhdanovskiy/fmtdate
