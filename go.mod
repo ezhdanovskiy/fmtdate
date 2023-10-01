@@ -1,3 +1,3 @@
-module gitlab.com/ezhdanovskiy/fmtdate
+module github.com/ezhdanovskiy/fmtdate
 
 go 1.20
